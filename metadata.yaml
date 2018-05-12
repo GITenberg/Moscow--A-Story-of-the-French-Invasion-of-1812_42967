@@ -1,0 +1,36 @@
+_repo: Moscow--A-Story-of-the-French-Invasion-of-1812_42967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whishaw, Frederick
+    aliases:
+    - Whishaw, Fred
+    - Whishaw, Frederick J.
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '38216'
+    url: http://www.gutenberg.org/2009/agents/38216
+    wikipedia: http://en.wikipedia.org/wiki/Fred_Whishaw
+description: Born in Russia to British parents, Fred Whishaw's family returned to
+  England soon after his birth. However, at age 16, Whishaw decided to reacquaint
+  himself with his country of origin and struck out for St. Petersburg on his own.
+  This immersion in Russian culture and politics proved to be enormously influential.
+  As Whishaw continued to develop as a writer, many of his novels were set in Russia.
+  Moscow is a fictionalized account of the French incursion into Russia in 1812...
+gutenberg_issued: '2013-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42967'
+  lccn: '06011311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Fiction'
+- !lcc 'PR'
+title: 'Moscow: A Story of the French Invasion of 1812'
+url: http://www.gutenberg.org/ebooks/42967
